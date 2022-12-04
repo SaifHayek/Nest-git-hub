@@ -1,0 +1,20 @@
+.user-modal{
+    background-color: bisque;
+}
+.user-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+}
+.repos-list{
+    text-align: left;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.repos-list li{
+    cursor: pointer;
+}

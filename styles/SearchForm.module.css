@@ -1,0 +1,25 @@
+.form{
+border: 1px solid #4B4DED;
+padding: 15px;
+width: 20rem;
+margin: auto;
+text-align: center;
+}
+.form > *{
+    display: block;
+    width: 90%;
+    margin: 0.8rem auto;
+    padding: 0.5rem;
+}
+.form input[type="text"]{
+    border: 1px solid #4B4DED ;
+}
+.form-btn{
+    background: #0E0E2C;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.form-btn:hover{
+    opacity: 0.9;
+}

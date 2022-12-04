@@ -1,0 +1,21 @@
+{
+    "user": {
+      "get user btn": "Get user",
+      "search user input": "Search for user",
+      "followers": "Followers: ",
+      "following": "Following: "
+    },
+    "repo": {
+      "all repo": "All Repos: ",
+      "repo": "Repo: ",
+      "pull request": "Pull Requests: ",
+      "no pulls": "No pulls"
+
+    },
+    "loading":{
+      "loading":"loading..."
+    },
+    "footer":{
+        "copy":"© by Saif Al-Hayek 2022"
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "user": {
+      "get user btn": "احصل على المستخدم",
+      "search user input": "ابحث عن المستخدم",
+      "followers": "المتابِعين: ",
+      "following": "المتابَعين: "
+    },
+    "repo": {
+      "all repo": "جميع المستودعات: ",
+      "repo": "مستودع: ",
+      "pull request": "طلبات الدمج: ",
+      "no pulls": "لا يوجد طلبات"
+    },
+    "loading":{
+      "loading":"...تحميل"
+    },
+    "footer":{
+        "copy":"© بواسطة سيف الحايك 2022"
+    }
+  }
